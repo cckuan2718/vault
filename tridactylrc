@@ -6,6 +6,7 @@ set theme dark
 set newtab about:blank
 set allowautofocus false 
 
+set searchengine google
 set searchurls.ap https://archlinux.org/packages/?q=
 set searchurls.aw https://wiki.archlinux.org/index.php?search=
 set searchurls.aur https://aur.archlinux.org/packages?O=0&K=
