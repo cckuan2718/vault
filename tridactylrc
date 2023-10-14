@@ -1,0 +1,31 @@
+"
+" tridactylrc
+"
+
+set theme dark
+set newtab about:blank
+set allowautofocus false 
+
+set searchurls.ap https://archlinux.org/packages/?q=
+set searchurls.aw https://wiki.archlinux.org/index.php?search=
+set searchurls.aur https://aur.archlinux.org/packages?O=0&K=
+set searchurls.gg https://www.google.com/search?q=
+set searchurls.gh https://github.com/search?q=
+set searchurls.gm https://www.google.com/maps?q=
+set searchurls.gw https://wiki.gentoo.org/index.php?title=Special%3ASearch&search=
+set searchurls.lg https://libgen.li/index.php?req=
+set searchurls.mba https://musicbrainz.org/search?query=%s&type=artist
+set searchurls.mbr https://musicbrainz.org/search?query=%s&type=release
+set searchurls.op https://openports.se/search.php?so=
+set searchurls.so https://stackoverflow.com/search?q=
+set searchurls.utd https://www.uptodate.com/contents/search?search=
+set searchurls.wk https://en.wikipedia.org/w/index.php?search=
+set searchurls.yt https://www.youtube.com/results?search_query=
+
+colourscheme midnight
+
+bind j scrollline 5
+bind k scrollline -5
+bind ge scrollto 100
+set hintchars ghfjdksla;
+
